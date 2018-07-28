@@ -195,7 +195,6 @@ for num in itertools.chain(row1,row2,row3,row4,row5,row6,row7,row8,row9):
 for pos in random.sample(range(0,81),36):
 	get_all[pos] = ' '
 
-
 s = '''
 
 
